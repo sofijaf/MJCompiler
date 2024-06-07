@@ -1,0 +1,112 @@
+INFO  11:30:37,566 - Compiling source file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\test1.mj
+INFO  11:30:37,612 - #2 program
+INFO  11:30:37,612 - #47 MJProgram
+INFO  11:30:37,612 - #47 int
+INFO  11:30:37,614 - #47 x
+INFO  11:30:37,615 - #5 ;
+INFO  11:30:37,615 - #47 int
+INFO  11:30:37,615 - #47 y
+INFO  11:30:37,615 - #5 ;
+INFO  11:30:37,615 - #47 int
+INFO  11:30:37,615 - #47 z
+INFO  11:30:37,616 - #5 ;
+INFO  11:30:37,616 - #12 const
+INFO  11:30:37,616 - #47 int
+INFO  11:30:37,616 - #47 a
+INFO  11:30:37,616 - #39 =
+INFO  11:30:37,616 - #46 5
+INFO  11:30:37,616 - #5 ;
+INFO  11:30:37,616 - #12 const
+INFO  11:30:37,618 - #47 int
+INFO  11:30:37,618 - #47 b
+INFO  11:30:37,618 - #39 =
+INFO  11:30:37,619 - #46 6
+INFO  11:30:37,619 - #5 ;
+INFO  11:30:37,619 - #12 const
+INFO  11:30:37,619 - #47 char
+INFO  11:30:37,619 - #47 m
+INFO  11:30:37,619 - #39 =
+INFO  11:30:37,619 - #50 m
+INFO  11:30:37,619 - #5 ;
+INFO  11:30:37,619 - #3 {
+INFO  11:30:37,619 - #47 int
+INFO  11:30:37,620 - #47 k
+INFO  11:30:37,620 - #6 (
+INFO  11:30:37,620 - #7 )
+INFO  11:30:37,621 - #47 int
+INFO  11:30:37,622 - #47 c
+INFO  11:30:37,623 - #5 ;
+INFO  11:30:37,623 - #3 {
+INFO  11:30:37,623 - #47 c
+INFO  11:30:37,624 - #39 =
+INFO  11:30:37,624 - #46 2
+INFO  11:30:37,625 - #5 ;
+INFO  11:30:37,626 - #9 print
+INFO  11:30:37,626 - #6 (
+INFO  11:30:37,626 - #46 0
+INFO  11:30:37,627 - #7 )
+INFO  11:30:37,627 - #5 ;
+INFO  11:30:37,627 - #10 return
+INFO  11:30:37,627 - #47 c
+INFO  11:30:37,627 - #27 +
+INFO  11:30:37,627 - #46 2
+INFO  11:30:37,628 - #5 ;
+INFO  11:30:37,629 - #4 }
+INFO  11:30:37,629 - #11 void
+INFO  11:30:37,630 - #47 main
+INFO  11:30:37,630 - #6 (
+INFO  11:30:37,630 - #7 )
+INFO  11:30:37,630 - #3 {
+INFO  11:30:37,630 - #47 x
+INFO  11:30:37,630 - #39 =
+INFO  11:30:37,630 - #46 3
+INFO  11:30:37,630 - #5 ;
+INFO  11:30:37,631 - #9 print
+INFO  11:30:37,631 - #6 (
+INFO  11:30:37,631 - #46 1
+INFO  11:30:37,631 - #7 )
+INFO  11:30:37,631 - #5 ;
+INFO  11:30:37,631 - #47 y
+INFO  11:30:37,631 - #39 =
+INFO  11:30:37,631 - #46 4
+INFO  11:30:37,631 - #27 +
+INFO  11:30:37,631 - #46 9
+INFO  11:30:37,632 - #5 ;
+INFO  11:30:37,632 - #47 z
+INFO  11:30:37,632 - #39 =
+INFO  11:30:37,632 - #47 a
+INFO  11:30:37,632 - #29 *
+INFO  11:30:37,632 - #47 m
+INFO  11:30:37,633 - #5 ;
+INFO  11:30:37,633 - #9 print
+INFO  11:30:37,633 - #6 (
+INFO  11:30:37,633 - #47 x
+INFO  11:30:37,633 - #7 )
+INFO  11:30:37,633 - #5 ;
+INFO  11:30:37,633 - #47 k
+INFO  11:30:37,633 - #6 (
+INFO  11:30:37,633 - #7 )
+INFO  11:30:37,634 - #5 ;
+INFO  11:30:37,634 - #9 print
+INFO  11:30:37,635 - #6 (
+INFO  11:30:37,635 - #47 y
+INFO  11:30:37,635 - #7 )
+INFO  11:30:37,635 - #5 ;
+INFO  11:30:37,635 - #9 print
+INFO  11:30:37,635 - #6 (
+INFO  11:30:37,635 - #47 z
+INFO  11:30:37,635 - #7 )
+INFO  11:30:37,635 - #5 ;
+INFO  11:30:37,635 - #4 }
+INFO  11:30:37,635 - #4 }
+INFO  11:30:37,649 - Detektovano koriscenje lokalne promenljive Var c: int, 0, 1  na liniji 9
+INFO  11:30:37,649 - Detektovano koriscenje lokalne promenljive Var c: int, 0, 1  na liniji 13
+INFO  11:30:37,650 - Detektovano koriscenje globalne promenljive Var x: int, 0, 0  na liniji 17
+INFO  11:30:37,650 - Detektovano koriscenje globalne promenljive Var y: int, 1, 0  na liniji 21
+INFO  11:30:37,650 - Detektovano koriscenje globalne promenljive Var z: int, 2, 0  na liniji 23
+ERROR 11:30:37,650 - Nekompatibilni tipovi u izrazu uz MulOp. na liniji 23
+ERROR 11:30:37,650 - Nekompatibilni tipovi pri dodeli uz AssignOp na liniji 23
+INFO  11:30:37,650 - Detektovano koriscenje globalne promenljive Var x: int, 0, 0  na liniji 25
+INFO  11:30:37,650 - Detektovano koriscenje globalne promenljive Var y: int, 1, 0  na liniji 29
+INFO  11:30:37,650 - Detektovano koriscenje globalne promenljive Var z: int, 2, 0  na liniji 31
+ERROR 11:30:37,651 - Parsiranje NIJE uspesno zavrseno!

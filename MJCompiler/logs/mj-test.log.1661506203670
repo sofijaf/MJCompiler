@@ -1,0 +1,5 @@
+INFO  11:27:13,668 - Compiling source file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\test1.mj
+INFO  11:27:13,719 - #30 /
+ERROR 11:27:13,719 - 
+Sintaksna greska na liniji 24
+ERROR 11:27:13,719 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 24

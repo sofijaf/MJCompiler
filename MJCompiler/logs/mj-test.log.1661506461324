@@ -1,0 +1,106 @@
+INFO  11:33:48,095 - Compiling source file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\test1.mj
+INFO  11:33:48,140 - #2 program
+INFO  11:33:48,141 - #47 MJProgram
+INFO  11:33:48,141 - #47 int
+INFO  11:33:48,142 - #47 x
+INFO  11:33:48,143 - #5 ;
+INFO  11:33:48,143 - #47 int
+INFO  11:33:48,143 - #47 y
+INFO  11:33:48,143 - #5 ;
+INFO  11:33:48,143 - #47 int
+INFO  11:33:48,144 - #47 z
+INFO  11:33:48,144 - #5 ;
+INFO  11:33:48,144 - #12 const
+INFO  11:33:48,144 - #47 int
+INFO  11:33:48,144 - #47 a
+INFO  11:33:48,144 - #39 =
+INFO  11:33:48,144 - #46 5
+INFO  11:33:48,144 - #5 ;
+INFO  11:33:48,145 - #12 const
+INFO  11:33:48,146 - #47 int
+INFO  11:33:48,146 - #47 b
+INFO  11:33:48,146 - #39 =
+INFO  11:33:48,147 - #46 6
+INFO  11:33:48,147 - #5 ;
+INFO  11:33:48,147 - #12 const
+INFO  11:33:48,147 - #47 char
+INFO  11:33:48,147 - #47 m
+INFO  11:33:48,147 - #39 =
+INFO  11:33:48,147 - #50 m
+INFO  11:33:48,147 - #5 ;
+INFO  11:33:48,147 - #3 {
+INFO  11:33:48,148 - #47 int
+INFO  11:33:48,148 - #47 k
+INFO  11:33:48,148 - #6 (
+INFO  11:33:48,149 - #7 )
+INFO  11:33:48,149 - #47 int
+INFO  11:33:48,150 - #47 c
+INFO  11:33:48,150 - #5 ;
+INFO  11:33:48,150 - #3 {
+INFO  11:33:48,150 - #47 c
+INFO  11:33:48,151 - #39 =
+INFO  11:33:48,151 - #46 2
+INFO  11:33:48,152 - #5 ;
+INFO  11:33:48,153 - #10 return
+INFO  11:33:48,153 - #47 c
+INFO  11:33:48,153 - #27 +
+INFO  11:33:48,153 - #47 b
+INFO  11:33:48,154 - #5 ;
+INFO  11:33:48,155 - #4 }
+INFO  11:33:48,155 - #11 void
+INFO  11:33:48,155 - #47 main
+INFO  11:33:48,156 - #6 (
+INFO  11:33:48,156 - #7 )
+INFO  11:33:48,156 - #3 {
+INFO  11:33:48,156 - #47 x
+INFO  11:33:48,156 - #39 =
+INFO  11:33:48,156 - #46 3
+INFO  11:33:48,156 - #5 ;
+INFO  11:33:48,156 - #9 print
+INFO  11:33:48,156 - #6 (
+INFO  11:33:48,156 - #46 1
+INFO  11:33:48,156 - #7 )
+INFO  11:33:48,156 - #5 ;
+INFO  11:33:48,157 - #47 y
+INFO  11:33:48,157 - #39 =
+INFO  11:33:48,157 - #46 4
+INFO  11:33:48,157 - #27 +
+INFO  11:33:48,157 - #46 9
+INFO  11:33:48,157 - #5 ;
+INFO  11:33:48,157 - #47 z
+INFO  11:33:48,157 - #39 =
+INFO  11:33:48,157 - #47 a
+INFO  11:33:48,157 - #29 *
+INFO  11:33:48,157 - #47 b
+INFO  11:33:48,158 - #5 ;
+INFO  11:33:48,158 - #9 print
+INFO  11:33:48,159 - #6 (
+INFO  11:33:48,159 - #47 x
+INFO  11:33:48,159 - #7 )
+INFO  11:33:48,159 - #5 ;
+INFO  11:33:48,159 - #47 k
+INFO  11:33:48,159 - #6 (
+INFO  11:33:48,159 - #7 )
+INFO  11:33:48,159 - #5 ;
+INFO  11:33:48,160 - #9 print
+INFO  11:33:48,160 - #6 (
+INFO  11:33:48,160 - #47 y
+INFO  11:33:48,160 - #7 )
+INFO  11:33:48,160 - #5 ;
+INFO  11:33:48,160 - #9 print
+INFO  11:33:48,160 - #6 (
+INFO  11:33:48,160 - #47 z
+INFO  11:33:48,160 - #7 )
+INFO  11:33:48,160 - #5 ;
+INFO  11:33:48,160 - #4 }
+INFO  11:33:48,161 - #4 }
+INFO  11:33:48,171 - Detektovano koriscenje lokalne promenljive Var c: int, 0, 1  na liniji 9
+INFO  11:33:48,172 - Detektovano koriscenje lokalne promenljive Var c: int, 0, 1  na liniji 11
+INFO  11:33:48,172 - Detektovano koriscenje globalne promenljive Var x: int, 0, 0  na liniji 15
+INFO  11:33:48,172 - Detektovano koriscenje globalne promenljive Var y: int, 1, 0  na liniji 19
+INFO  11:33:48,172 - Detektovano koriscenje globalne promenljive Var z: int, 2, 0  na liniji 22
+INFO  11:33:48,172 - Detektovano koriscenje globalne promenljive Var x: int, 0, 0  na liniji 24
+INFO  11:33:48,172 - Detektovano koriscenje globalne promenljive Var y: int, 1, 0  na liniji 28
+INFO  11:33:48,172 - Detektovano koriscenje globalne promenljive Var z: int, 2, 0  na liniji 30
+INFO  11:33:48,173 - Generating bytecode file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\program.obj
+INFO  11:33:48,176 - Parsiranje uspesno zavrseno!

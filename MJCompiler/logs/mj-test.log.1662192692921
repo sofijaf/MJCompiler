@@ -1,0 +1,118 @@
+INFO  10:11:23,579 - Compiling source file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\test2.mj
+INFO  10:11:23,639 - #2 program
+INFO  10:11:23,640 - #50 MJProgram
+INFO  10:11:23,640 - #50 int
+INFO  10:11:23,642 - #50 x
+INFO  10:11:23,643 - #5 ;
+INFO  10:11:23,643 - #50 int
+INFO  10:11:23,643 - #50 y
+INFO  10:11:23,644 - #5 ;
+INFO  10:11:23,644 - #50 int
+INFO  10:11:23,644 - #50 z
+INFO  10:11:23,644 - #5 ;
+INFO  10:11:23,644 - #12 const
+INFO  10:11:23,644 - #50 int
+INFO  10:11:23,644 - #50 a
+INFO  10:11:23,644 - #34 =
+INFO  10:11:23,645 - #49 5
+INFO  10:11:23,645 - #5 ;
+INFO  10:11:23,645 - #12 const
+INFO  10:11:23,646 - #50 int
+INFO  10:11:23,646 - #50 b
+INFO  10:11:23,646 - #34 =
+INFO  10:11:23,647 - #49 6
+INFO  10:11:23,647 - #5 ;
+INFO  10:11:23,647 - #12 const
+INFO  10:11:23,647 - #50 char
+INFO  10:11:23,647 - #50 m
+INFO  10:11:23,648 - #34 =
+INFO  10:11:23,648 - #53 m
+INFO  10:11:23,648 - #5 ;
+INFO  10:11:23,648 - #3 {
+INFO  10:11:23,648 - #50 int
+INFO  10:11:23,649 - #50 k
+INFO  10:11:23,649 - #6 (
+INFO  10:11:23,649 - #7 )
+INFO  10:11:23,650 - #50 int
+INFO  10:11:23,651 - #50 c
+INFO  10:11:23,651 - #5 ;
+INFO  10:11:23,651 - #3 {
+INFO  10:11:23,651 - #50 c
+INFO  10:11:23,652 - #34 =
+INFO  10:11:23,654 - #49 2
+INFO  10:11:23,655 - #5 ;
+INFO  10:11:23,656 - #9 print
+INFO  10:11:23,656 - #6 (
+INFO  10:11:23,656 - #49 0
+INFO  10:11:23,656 - #7 )
+INFO  10:11:23,657 - #5 ;
+INFO  10:11:23,657 - #10 return
+INFO  10:11:23,657 - #50 c
+INFO  10:11:23,657 - #23 +
+INFO  10:11:23,657 - #49 2
+INFO  10:11:23,659 - #5 ;
+INFO  10:11:23,659 - #4 }
+INFO  10:11:23,659 - #11 void
+INFO  10:11:23,660 - #50 main
+INFO  10:11:23,660 - #6 (
+INFO  10:11:23,661 - #7 )
+INFO  10:11:23,661 - #3 {
+INFO  10:11:23,661 - #50 x
+INFO  10:11:23,661 - #34 =
+INFO  10:11:23,661 - #49 3
+INFO  10:11:23,661 - #5 ;
+INFO  10:11:23,661 - #9 print
+INFO  10:11:23,661 - #6 (
+INFO  10:11:23,661 - #49 1
+INFO  10:11:23,661 - #7 )
+INFO  10:11:23,662 - #5 ;
+INFO  10:11:23,662 - #50 y
+INFO  10:11:23,662 - #34 =
+INFO  10:11:23,662 - #49 4
+INFO  10:11:23,662 - #23 +
+INFO  10:11:23,662 - #49 9
+INFO  10:11:23,662 - #5 ;
+INFO  10:11:23,662 - #50 z
+INFO  10:11:23,662 - #34 =
+INFO  10:11:23,662 - #50 a
+INFO  10:11:23,662 - #25 *
+INFO  10:11:23,662 - #50 b
+INFO  10:11:23,663 - #5 ;
+INFO  10:11:23,664 - #9 print
+INFO  10:11:23,664 - #6 (
+INFO  10:11:23,664 - #50 x
+INFO  10:11:23,664 - #7 )
+INFO  10:11:23,664 - #5 ;
+INFO  10:11:23,664 - #50 k
+INFO  10:11:23,664 - #6 (
+INFO  10:11:23,664 - #7 )
+INFO  10:11:23,665 - #5 ;
+INFO  10:11:23,665 - #9 print
+INFO  10:11:23,666 - #6 (
+INFO  10:11:23,666 - #50 y
+INFO  10:11:23,666 - #7 )
+INFO  10:11:23,666 - #5 ;
+INFO  10:11:23,666 - #9 print
+INFO  10:11:23,666 - #6 (
+INFO  10:11:23,666 - #50 z
+INFO  10:11:23,666 - #7 )
+INFO  10:11:23,666 - #5 ;
+INFO  10:11:23,666 - #9 print
+INFO  10:11:23,666 - #6 (
+INFO  10:11:23,667 - #49 0
+INFO  10:11:23,667 - #48 <=>
+INFO  10:11:23,667 - #49 0
+INFO  10:11:23,667 - #7 )
+INFO  10:11:23,667 - #5 ;
+INFO  10:11:23,667 - #4 }
+INFO  10:11:23,667 - #4 }
+INFO  10:11:23,679 - Detektovano koriscenje lokalne promenljive Var c: int, 0, 1  na liniji 11
+INFO  10:11:23,679 - Detektovano koriscenje lokalne promenljive Var c: int, 0, 1  na liniji 15
+INFO  10:11:23,679 - Detektovano koriscenje globalne promenljive Var x: int, 0, 0  na liniji 19
+INFO  10:11:23,679 - Detektovano koriscenje globalne promenljive Var y: int, 1, 0  na liniji 23
+INFO  10:11:23,679 - Detektovano koriscenje globalne promenljive Var z: int, 2, 0  na liniji 25
+INFO  10:11:23,680 - Detektovano koriscenje globalne promenljive Var x: int, 0, 0  na liniji 27
+INFO  10:11:23,680 - Detektovano koriscenje globalne promenljive Var y: int, 1, 0  na liniji 31
+INFO  10:11:23,680 - Detektovano koriscenje globalne promenljive Var z: int, 2, 0  na liniji 33
+INFO  10:11:23,680 - Generating bytecode file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\program.obj
+INFO  10:11:23,684 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,36 @@
+// Test 3 - semanticka analiza - neispravan
+
+program MJProgram
+	int x; int y; int z;
+	const int a = 5;
+	const int b = 6;
+	const char m = 'm';
+{
+
+	int k () int c; {
+		c = 2;
+		
+		return c+m;	// semanticka greska
+	}
+
+	int main() {	// semanticka greska
+		x = 3;
+		
+		print(1);
+		
+		y = 4 + 9;
+		
+		z = a * m;	// semanticka greska
+		
+		print(x);
+		
+		k();
+		
+		print(y);
+		
+		print(z);
+		
+		return 1;
+		
+	}
+}

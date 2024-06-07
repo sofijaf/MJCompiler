@@ -1,0 +1,113 @@
+INFO  12:28:48,565 - Compiling source file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\test3.mj
+INFO  12:28:48,609 - #2 program
+INFO  12:28:48,609 - #47 MJProgram
+INFO  12:28:48,609 - #47 int
+INFO  12:28:48,611 - #47 x
+INFO  12:28:48,611 - #5 ;
+INFO  12:28:48,611 - #47 int
+INFO  12:28:48,612 - #47 y
+INFO  12:28:48,612 - #5 ;
+INFO  12:28:48,612 - #47 int
+INFO  12:28:48,612 - #47 z
+INFO  12:28:48,612 - #5 ;
+INFO  12:28:48,612 - #12 const
+INFO  12:28:48,612 - #47 int
+INFO  12:28:48,613 - #47 a
+INFO  12:28:48,613 - #39 =
+INFO  12:28:48,613 - #46 5
+INFO  12:28:48,613 - #5 ;
+INFO  12:28:48,613 - #12 const
+INFO  12:28:48,614 - #47 int
+INFO  12:28:48,614 - #47 b
+INFO  12:28:48,615 - #39 =
+INFO  12:28:48,615 - #46 6
+INFO  12:28:48,615 - #5 ;
+INFO  12:28:48,616 - #12 const
+INFO  12:28:48,616 - #47 char
+INFO  12:28:48,616 - #47 m
+INFO  12:28:48,616 - #39 =
+INFO  12:28:48,616 - #50 m
+INFO  12:28:48,616 - #5 ;
+INFO  12:28:48,617 - #3 {
+INFO  12:28:48,617 - #47 int
+INFO  12:28:48,617 - #47 k
+INFO  12:28:48,617 - #6 (
+INFO  12:28:48,618 - #7 )
+INFO  12:28:48,619 - #47 int
+INFO  12:28:48,619 - #47 c
+INFO  12:28:48,620 - #5 ;
+INFO  12:28:48,620 - #3 {
+INFO  12:28:48,620 - #47 c
+INFO  12:28:48,621 - #39 =
+INFO  12:28:48,621 - #46 2
+INFO  12:28:48,622 - #5 ;
+INFO  12:28:48,623 - #10 return
+INFO  12:28:48,623 - #47 c
+INFO  12:28:48,623 - #27 +
+INFO  12:28:48,624 - #47 m
+INFO  12:28:48,625 - #5 ;
+INFO  12:28:48,625 - #4 }
+INFO  12:28:48,625 - #47 int
+INFO  12:28:48,626 - #47 main
+INFO  12:28:48,626 - #6 (
+INFO  12:28:48,626 - #7 )
+INFO  12:28:48,627 - #3 {
+INFO  12:28:48,627 - #47 x
+INFO  12:28:48,627 - #39 =
+INFO  12:28:48,627 - #46 3
+INFO  12:28:48,627 - #5 ;
+INFO  12:28:48,627 - #9 print
+INFO  12:28:48,627 - #6 (
+INFO  12:28:48,627 - #46 1
+INFO  12:28:48,627 - #7 )
+INFO  12:28:48,627 - #5 ;
+INFO  12:28:48,627 - #47 y
+INFO  12:28:48,628 - #39 =
+INFO  12:28:48,628 - #46 4
+INFO  12:28:48,628 - #27 +
+INFO  12:28:48,628 - #46 9
+INFO  12:28:48,628 - #5 ;
+INFO  12:28:48,628 - #47 z
+INFO  12:28:48,628 - #39 =
+INFO  12:28:48,628 - #47 a
+INFO  12:28:48,628 - #29 *
+INFO  12:28:48,628 - #47 m
+INFO  12:28:48,629 - #5 ;
+INFO  12:28:48,629 - #9 print
+INFO  12:28:48,629 - #6 (
+INFO  12:28:48,629 - #47 x
+INFO  12:28:48,629 - #7 )
+INFO  12:28:48,630 - #5 ;
+INFO  12:28:48,630 - #47 k
+INFO  12:28:48,630 - #6 (
+INFO  12:28:48,630 - #7 )
+INFO  12:28:48,630 - #5 ;
+INFO  12:28:48,630 - #9 print
+INFO  12:28:48,631 - #6 (
+INFO  12:28:48,631 - #47 y
+INFO  12:28:48,631 - #7 )
+INFO  12:28:48,631 - #5 ;
+INFO  12:28:48,631 - #9 print
+INFO  12:28:48,631 - #6 (
+INFO  12:28:48,631 - #47 z
+INFO  12:28:48,631 - #7 )
+INFO  12:28:48,631 - #5 ;
+INFO  12:28:48,631 - #10 return
+INFO  12:28:48,631 - #46 1
+INFO  12:28:48,631 - #5 ;
+INFO  12:28:48,632 - #4 }
+INFO  12:28:48,632 - #4 }
+INFO  12:28:48,642 - Detektovano koriscenje lokalne promenljive Var c: int, 0, 1  na liniji 11
+INFO  12:28:48,642 - Detektovano koriscenje lokalne promenljive Var c: int, 0, 1  na liniji 13
+ERROR 12:28:48,642 - Nekompatibilni tipovi u izrazu uz AddOp na liniji 13
+ERROR 12:28:48,643 - Tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije k na liniji 13
+INFO  12:28:48,643 - Detektovano koriscenje globalne promenljive Var x: int, 0, 0  na liniji 17
+INFO  12:28:48,643 - Detektovano koriscenje globalne promenljive Var y: int, 1, 0  na liniji 21
+INFO  12:28:48,643 - Detektovano koriscenje globalne promenljive Var z: int, 2, 0  na liniji 23
+ERROR 12:28:48,643 - Nekompatibilni tipovi u izrazu uz MulOp na liniji 23
+ERROR 12:28:48,643 - Nekompatibilni tipovi pri dodeli uz AssignOp na liniji 23
+INFO  12:28:48,643 - Detektovano koriscenje globalne promenljive Var x: int, 0, 0  na liniji 25
+INFO  12:28:48,643 - Detektovano koriscenje globalne promenljive Var y: int, 1, 0  na liniji 29
+INFO  12:28:48,643 - Detektovano koriscenje globalne promenljive Var z: int, 2, 0  na liniji 31
+ERROR 12:28:48,643 - Tip main metode mora biti void na liniji 3
+ERROR 12:28:48,644 - Parsiranje NIJE uspesno zavrseno!

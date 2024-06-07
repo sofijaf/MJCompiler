@@ -1,0 +1,34 @@
+INFO  10:19:41,355 - Compiling source file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\test_mod.mj
+INFO  10:19:41,425 - #2 program
+INFO  10:19:41,425 - #50 MJProgram
+INFO  10:19:41,425 - #50 int
+INFO  10:19:41,428 - #50 i
+INFO  10:19:41,429 - #5 ;
+INFO  10:19:41,429 - #50 int
+INFO  10:19:41,430 - #50 niz
+INFO  10:19:41,430 - #14 [
+INFO  10:19:41,430 - #15 ]
+INFO  10:19:41,431 - #5 ;
+INFO  10:19:41,431 - #3 {
+INFO  10:19:41,431 - #11 void
+INFO  10:19:41,432 - #50 main
+INFO  10:19:41,432 - #6 (
+INFO  10:19:41,433 - #7 )
+INFO  10:19:41,434 - #3 {
+INFO  10:19:41,435 - #50 i
+INFO  10:19:41,436 - #34 =
+INFO  10:19:41,437 - #49 0
+INFO  10:19:41,438 - #5 ;
+INFO  10:19:41,440 - #9 print
+INFO  10:19:41,441 - #6 (
+INFO  10:19:41,441 - #50 i
+INFO  10:19:41,441 - #48 <=>
+INFO  10:19:41,441 - #49 1
+INFO  10:19:41,441 - #7 )
+INFO  10:19:41,442 - #5 ;
+INFO  10:19:41,442 - #4 }
+INFO  10:19:41,442 - #4 }
+INFO  10:19:41,459 - Detektovano koriscenje globalne promenljive Var i: int, 0, 0  na liniji 8
+INFO  10:19:41,459 - Detektovano koriscenje globalne promenljive Var i: int, 0, 0  na liniji 9
+INFO  10:19:41,460 - Generating bytecode file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\program.obj
+INFO  10:19:41,464 - Parsiranje uspesno zavrseno!

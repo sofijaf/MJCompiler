@@ -1,0 +1,29 @@
+INFO  14:06:22,441 - Compiling source file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\program.mj
+INFO  14:06:22,467 - #2 program
+INFO  14:06:22,467 - #19 MJProgram
+INFO  14:06:22,467 - #19 int
+INFO  14:06:22,469 - #19 x
+INFO  14:06:22,470 - #5 ;
+INFO  14:06:22,472 - #19 int
+INFO  14:06:22,474 - #19 y
+INFO  14:06:22,474 - #5 ;
+INFO  14:06:22,474 - #14 const
+INFO  14:06:22,474 - #19 int
+INFO  14:06:22,475 - #19 t
+INFO  14:06:22,475 - #12 =
+INFO  14:06:22,475 - #18 4
+INFO  14:06:22,475 - #8 ,
+INFO  14:06:22,476 - #19 m
+INFO  14:06:22,476 - #12 =
+INFO  14:06:22,476 - #18 5
+INFO  14:06:22,476 - #5 ;
+INFO  14:06:22,476 - #3 {
+INFO  14:06:22,477 - #19 int
+INFO  14:06:22,477 - #19 k
+INFO  14:06:22,479 - #6 (
+INFO  14:06:22,479 - #7 )
+INFO  14:06:22,479 - #19 int
+INFO  14:06:22,480 - #19 c
+ERROR 14:06:22,480 - 
+Sintaksna greska na liniji 6
+ERROR 14:06:22,480 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6

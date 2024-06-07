@@ -1,0 +1,82 @@
+INFO  11:20:26,045 - Compiling source file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\test1.mj
+INFO  11:20:26,096 - #2 program
+INFO  11:20:26,096 - #47 MJProgram
+INFO  11:20:26,096 - #47 int
+INFO  11:20:26,098 - #47 x
+INFO  11:20:26,099 - #5 ;
+INFO  11:20:26,099 - #47 int
+INFO  11:20:26,099 - #47 y
+INFO  11:20:26,099 - #5 ;
+INFO  11:20:26,099 - #3 {
+INFO  11:20:26,100 - #47 int
+INFO  11:20:26,100 - #47 k
+INFO  11:20:26,101 - #6 (
+INFO  11:20:26,101 - #7 )
+INFO  11:20:26,102 - #47 int
+INFO  11:20:26,102 - #47 c
+INFO  11:20:26,103 - #5 ;
+INFO  11:20:26,103 - #3 {
+INFO  11:20:26,103 - #47 c
+INFO  11:20:26,104 - #39 =
+INFO  11:20:26,104 - #46 2
+INFO  11:20:26,105 - #5 ;
+INFO  11:20:26,106 - #9 print
+INFO  11:20:26,107 - #6 (
+INFO  11:20:26,107 - #46 0
+INFO  11:20:26,107 - #7 )
+INFO  11:20:26,107 - #5 ;
+INFO  11:20:26,107 - #10 return
+INFO  11:20:26,107 - #47 c
+INFO  11:20:26,107 - #27 +
+INFO  11:20:26,108 - #46 2
+INFO  11:20:26,109 - #5 ;
+INFO  11:20:26,109 - #4 }
+INFO  11:20:26,109 - #11 void
+INFO  11:20:26,110 - #47 main
+INFO  11:20:26,111 - #6 (
+INFO  11:20:26,111 - #7 )
+INFO  11:20:26,111 - #3 {
+INFO  11:20:26,111 - #47 x
+INFO  11:20:26,111 - #39 =
+INFO  11:20:26,111 - #46 3
+INFO  11:20:26,111 - #5 ;
+INFO  11:20:26,111 - #9 print
+INFO  11:20:26,111 - #6 (
+INFO  11:20:26,111 - #46 1
+INFO  11:20:26,112 - #7 )
+INFO  11:20:26,112 - #5 ;
+INFO  11:20:26,112 - #47 y
+INFO  11:20:26,112 - #39 =
+INFO  11:20:26,112 - #46 4
+INFO  11:20:26,112 - #27 +
+INFO  11:20:26,112 - #46 9
+INFO  11:20:26,112 - #27 +
+INFO  11:20:26,112 - #47 k
+INFO  11:20:26,113 - #6 (
+INFO  11:20:26,113 - #7 )
+INFO  11:20:26,113 - #5 ;
+INFO  11:20:26,114 - #9 print
+INFO  11:20:26,114 - #6 (
+INFO  11:20:26,114 - #47 x
+INFO  11:20:26,114 - #7 )
+INFO  11:20:26,114 - #5 ;
+INFO  11:20:26,114 - #47 k
+INFO  11:20:26,114 - #6 (
+INFO  11:20:26,114 - #7 )
+INFO  11:20:26,115 - #5 ;
+INFO  11:20:26,115 - #9 print
+INFO  11:20:26,115 - #6 (
+INFO  11:20:26,115 - #47 y
+INFO  11:20:26,115 - #7 )
+INFO  11:20:26,115 - #5 ;
+INFO  11:20:26,115 - #4 }
+INFO  11:20:26,115 - #4 }
+INFO  11:20:26,126 - Detektovano koriscenje lokalne promenljive Var c: int, 0, 1  na liniji 29
+INFO  11:20:26,126 - Detektovano koriscenje lokalne promenljive Var c: int, 0, 1  na liniji 33
+INFO  11:20:26,126 - Detektovano koriscenje globalne promenljive Var x: int, 0, 0  na liniji 37
+INFO  11:20:26,126 - Detektovano koriscenje globalne promenljive Var y: int, 1, 0  na liniji 41
+ERROR 11:20:26,126 - Nekompatibilni tipovi u izrazu uz AddOp. na liniji 41
+ERROR 11:20:26,126 - Nekompatibilni tipovi pri dodeli uz AssignOp na liniji 41
+INFO  11:20:26,127 - Detektovano koriscenje globalne promenljive Var x: int, 0, 0  na liniji 43
+INFO  11:20:26,127 - Detektovano koriscenje globalne promenljive Var y: int, 1, 0  na liniji 47
+ERROR 11:20:26,127 - Parsiranje NIJE uspesno zavrseno!

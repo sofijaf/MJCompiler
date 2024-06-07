@@ -1,0 +1,103 @@
+INFO  10:21:15,227 - Compiling source file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\test_mod.mj
+INFO  10:21:15,290 - #2 program
+INFO  10:21:15,290 - #50 MJProgram
+INFO  10:21:15,290 - #50 int
+INFO  10:21:15,293 - #50 i
+INFO  10:21:15,293 - #5 ;
+INFO  10:21:15,294 - #50 int
+INFO  10:21:15,294 - #50 niz
+INFO  10:21:15,294 - #14 [
+INFO  10:21:15,294 - #15 ]
+INFO  10:21:15,294 - #5 ;
+INFO  10:21:15,294 - #3 {
+INFO  10:21:15,295 - #11 void
+INFO  10:21:15,295 - #50 main
+INFO  10:21:15,296 - #6 (
+INFO  10:21:15,296 - #7 )
+INFO  10:21:15,297 - #3 {
+INFO  10:21:15,298 - #50 i
+INFO  10:21:15,299 - #34 =
+INFO  10:21:15,300 - #49 0
+INFO  10:21:15,302 - #5 ;
+INFO  10:21:15,303 - #9 print
+INFO  10:21:15,304 - #6 (
+INFO  10:21:15,304 - #50 i
+INFO  10:21:15,304 - #48 <=>
+INFO  10:21:15,305 - #49 1
+INFO  10:21:15,305 - #7 )
+INFO  10:21:15,305 - #5 ;
+INFO  10:21:15,305 - #50 niz
+INFO  10:21:15,305 - #14 [
+INFO  10:21:15,306 - #49 0
+INFO  10:21:15,306 - #15 ]
+INFO  10:21:15,306 - #34 =
+INFO  10:21:15,306 - #49 1
+INFO  10:21:15,307 - #5 ;
+INFO  10:21:15,307 - #50 niz
+INFO  10:21:15,307 - #14 [
+INFO  10:21:15,307 - #49 1
+INFO  10:21:15,307 - #15 ]
+INFO  10:21:15,307 - #34 =
+INFO  10:21:15,307 - #49 2
+INFO  10:21:15,307 - #5 ;
+INFO  10:21:15,307 - #50 niz
+INFO  10:21:15,308 - #14 [
+INFO  10:21:15,308 - #49 2
+INFO  10:21:15,308 - #15 ]
+INFO  10:21:15,308 - #34 =
+INFO  10:21:15,308 - #49 3
+INFO  10:21:15,308 - #5 ;
+INFO  10:21:15,308 - #50 niz
+INFO  10:21:15,308 - #14 [
+INFO  10:21:15,308 - #50 i
+INFO  10:21:15,309 - #15 ]
+INFO  10:21:15,309 - #34 =
+INFO  10:21:15,309 - #50 niz
+INFO  10:21:15,309 - #14 [
+INFO  10:21:15,309 - #50 i
+INFO  10:21:15,309 - #15 ]
+INFO  10:21:15,309 - #23 +
+INFO  10:21:15,309 - #49 1
+INFO  10:21:15,311 - #48 <=>
+INFO  10:21:15,311 - #6 (
+INFO  10:21:15,311 - #50 niz
+INFO  10:21:15,311 - #14 [
+INFO  10:21:15,311 - #50 i
+INFO  10:21:15,311 - #23 +
+INFO  10:21:15,312 - #49 2
+INFO  10:21:15,312 - #15 ]
+INFO  10:21:15,312 - #24 -
+INFO  10:21:15,312 - #49 3
+INFO  10:21:15,313 - #7 )
+INFO  10:21:15,313 - #5 ;
+INFO  10:21:15,313 - #9 print
+INFO  10:21:15,313 - #6 (
+INFO  10:21:15,313 - #50 niz
+INFO  10:21:15,313 - #14 [
+INFO  10:21:15,314 - #49 0
+INFO  10:21:15,314 - #15 ]
+INFO  10:21:15,314 - #7 )
+INFO  10:21:15,314 - #5 ;
+INFO  10:21:15,314 - #4 }
+INFO  10:21:15,314 - #4 }
+INFO  10:21:15,330 - Detektovano koriscenje globalne promenljive Var i: int, 0, 0  na liniji 8
+INFO  10:21:15,330 - Detektovano koriscenje globalne promenljive Var i: int, 0, 0  na liniji 9
+INFO  10:21:15,330 - Detektovano koriscenje globalne promenljive Var niz: Arr of int, 1, 0  na liniji 11
+INFO  10:21:15,330 - Detektovan pristup elementu niza Var niz: Arr of int, 1, 0  na liniji 11
+INFO  10:21:15,331 - Detektovano koriscenje globalne promenljive Var niz: Arr of int, 1, 0  na liniji 12
+INFO  10:21:15,331 - Detektovan pristup elementu niza Var niz: Arr of int, 1, 0  na liniji 12
+INFO  10:21:15,331 - Detektovano koriscenje globalne promenljive Var niz: Arr of int, 1, 0  na liniji 13
+INFO  10:21:15,331 - Detektovan pristup elementu niza Var niz: Arr of int, 1, 0  na liniji 13
+INFO  10:21:15,331 - Detektovano koriscenje globalne promenljive Var niz: Arr of int, 1, 0  na liniji 15
+INFO  10:21:15,331 - Detektovano koriscenje globalne promenljive Var i: int, 0, 0  na liniji 15
+INFO  10:21:15,331 - Detektovan pristup elementu niza Var niz: Arr of int, 1, 0  na liniji 15
+INFO  10:21:15,331 - Detektovano koriscenje globalne promenljive Var niz: Arr of int, 1, 0  na liniji 15
+INFO  10:21:15,331 - Detektovano koriscenje globalne promenljive Var i: int, 0, 0  na liniji 15
+INFO  10:21:15,331 - Detektovan pristup elementu niza Var niz: Arr of int, 1, 0  na liniji 15
+INFO  10:21:15,332 - Detektovano koriscenje globalne promenljive Var niz: Arr of int, 1, 0  na liniji 15
+INFO  10:21:15,332 - Detektovano koriscenje globalne promenljive Var i: int, 0, 0  na liniji 15
+INFO  10:21:15,332 - Detektovan pristup elementu niza Var niz: Arr of int, 1, 0  na liniji 15
+INFO  10:21:15,332 - Detektovano koriscenje globalne promenljive Var niz: Arr of int, 1, 0  na liniji 17
+INFO  10:21:15,332 - Detektovan pristup elementu niza Var niz: Arr of int, 1, 0  na liniji 17
+INFO  10:21:15,333 - Generating bytecode file: D:\RTI\7semestar\PP1\Projekat\fs170389d_projekat\workspace\MJCompiler\test\program.obj
+INFO  10:21:15,337 - Parsiranje uspesno zavrseno!
